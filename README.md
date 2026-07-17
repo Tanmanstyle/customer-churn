@@ -41,7 +41,7 @@ In plain English:
 - `1.00` would mean the model is perfect
 - `0.73` suggests the model has a useful ability to separate likely churners from likely non-churners
 
-The model is not production-ready, because the data is synthetic, but it is a strong portfolio demonstration of the machine learning workflow.
+The model is not production-ready, because the data is synthetic, but it is a strong demonstration of the machine learning workflow.
 
 ---
 
