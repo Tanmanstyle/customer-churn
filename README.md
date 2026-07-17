@@ -16,26 +16,6 @@ The project uses Python and scikit-learn to train a machine learning model that 
 
 This makes the output useful for both technical users and non-technical business stakeholders.
 
----
-
-## Portfolio Highlights
-
-This project demonstrates the ability to:
-
-- Translate a business problem into a machine learning solution
-- Cleanly structure a Python machine learning project
-- Load and analyse customer data with pandas
-- Create exploratory charts for business understanding
-- Build a scikit-learn machine learning pipeline
-- Handle class imbalance using `class_weight='balanced'`
-- Use train/test splitting and cross-validation correctly
-- Evaluate a classification model with ROC-AUC, precision, recall, F1-score, and a confusion matrix
-- Optimise the prediction threshold instead of relying on the default 50% cutoff
-- Convert model probabilities into practical customer risk bands
-- Save business-ready outputs for further analysis
-
----
-
 ## Business Problem
 
 Customer churn is when a customer stops using a product or service.
